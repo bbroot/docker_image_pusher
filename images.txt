@@ -7,3 +7,4 @@ xhofe/alist:latest
 #wg
 ghcr.io/wg-easy/wg-easy
 adguard/adguardhome
+ghcr.io/requarks/wiki:2
