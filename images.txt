@@ -9,3 +9,4 @@ xhofe/alist:latest
 adguard/adguardhome
 ghcr.io/requarks/wiki:2
 xhofe/alist:latest
+ghcr.io/wg-easy/wg-easy
