@@ -12,7 +12,6 @@ env:
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
 
 jobs:
-
   build:
     name: Pull
     runs-on: ubuntu-latest
@@ -23,7 +22,6 @@ jobs:
         echo "=============================================================================="
         df -hT
         echo "=============================================================================="
-
     # 增加可用磁盘空间
     - name: Maximize build space
       uses: easimon/maximize-build-space@master
