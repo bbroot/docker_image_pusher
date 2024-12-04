@@ -11,3 +11,4 @@ xhofe/alist:latest
 ghcr.io/wg-easy/wg-easy
 
 apache/answer:latest
+lscr.io/linuxserver/wireguard:latest
