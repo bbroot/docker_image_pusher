@@ -13,3 +13,13 @@ ghcr.io/wg-easy/wg-easy
 apache/answer:latest
 lscr.io/linuxserver/wireguard:latest
 calciumion/new-api:latest
+
+# fastgpt
+image: pgvector/pgvector:0.8.0-pg15
+image: mongo:5.0.18
+image: redis:7.2-alpine
+image: ghcr.io/labring/fastgpt-sandbox:v4.9.4
+image: ghcr.io/labring/fastgpt:v4.9.4
+image: ghcr.io/labring/aiproxy:v0.1.5
+image: pgvector/pgvector:0.8.0-pg15
+
