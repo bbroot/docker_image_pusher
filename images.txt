@@ -21,5 +21,9 @@ redis:7.2-alpine
 ghcr.io/labring/fastgpt-sandbox:v4.9.4
 ghcr.io/labring/fastgpt:v4.9.4
 ghcr.io/labring/aiproxy:v0.1.5
-pgvector/pgvector:0.8.0-pg15
+docker.io/pgvector/pgvector:0.7.0-pg15
 
+#newapi
+calciumion/new-api:latest
+redis:latest
+mysql:8.2
