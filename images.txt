@@ -22,6 +22,8 @@ ghcr.io/labring/fastgpt-sandbox:v4.9.4
 ghcr.io/labring/fastgpt:v4.9.4
 ghcr.io/labring/aiproxy:v0.1.5
 docker.io/pgvector/pgvector:0.7.0-pg15
+stawky/m3e-large-api:latest
+stawky/chatglm2-m3e:latest
 
 #newapi
 calciumion/new-api:latest
