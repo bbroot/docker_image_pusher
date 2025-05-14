@@ -29,3 +29,7 @@ stawky/chatglm2-m3e:latest
 calciumion/new-api:latest
 redis:latest
 mysql:8.2
+
+#Tale Book
+talebook/talebook
+ghcr.io/cxfksword/douban-api-rs
